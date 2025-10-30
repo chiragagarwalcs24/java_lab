@@ -1,4 +1,4 @@
-// Abstract class Shape
+ // Abstract class Shape
 abstract class Shape {
     int a, b; // Dimensions (e.g., length & breadth, base & height, etc.)
 
